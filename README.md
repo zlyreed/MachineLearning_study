@@ -1,4 +1,3 @@
-
 # MachineLearning_study
 I am trying to collect online materials to learn machine learning. The information on this repository was collected from: 
 
@@ -8,7 +7,7 @@ Github
 
 Others
 * [Data Science and Robot (blog)](https://brohrer.github.io/blog.html) (by Brandon Rohrer)
-* [AndrewNg_machinelearning Notes (斯坦福大学2014（吴恩达）机器学习教程中文笔记)](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) (by )
+* [AndrewNg_machinelearning Notes (斯坦福大学2014（吴恩达）机器学习教程中文笔记)](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) (by fengdu78)
 
 
 
