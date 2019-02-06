@@ -11,6 +11,7 @@
  - Regression Over 100 Million Variables—No Problem: The VGG-16 ConvNet architecture, for example, has approximately 138 million parameters. 
  
 -[A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://medium.com/cracking-the-data-science-interview/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-7228aa8ef541): In a nutshell, it states that no one algorithm works best for every problem, and it’s especially relevant for supervised learning (i.e. predictive modeling).
+  
   The Big Principle: Machine learning algorithms are described as learning a target function (f) that best maps input variables (X) to an output variable (Y): Y = f(X)
  - 1—Linear Regression
  - 2—Logistic Regression: It is the go-to method for binary classification problems (problems with two class values).
