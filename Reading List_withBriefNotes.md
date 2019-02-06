@@ -24,4 +24,4 @@
  - 9—Bagging and Random Forest
  - 10—Boosting and AdaBoost
  
- 
+-[End To End Guide For Machine Learning Projects](https://www.kdnuggets.com/2019/01/end-to-end-guide-machine-learning-project.html)
