@@ -9,3 +9,6 @@ Three feature selection techniques:
 1. Filter Methods
 2. Wrapper Methods
 3. Embedded Methods.
+
+
+-[Introduction to Feature Selection methods with an example (or how to select the right variables?)](https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/)
