@@ -13,6 +13,8 @@ Three feature selection techniques:
 
 -[Introduction to Feature Selection methods with an example (or how to select the right variables?)](https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/)
 
+- [Machine Learning with Signal Processing Techniques](http://ataspinar.com/2018/04/04/machine-learning-with-signal-processing-techniques/)
+
 
 - Normalization:
   - Z-score
